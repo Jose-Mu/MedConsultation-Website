@@ -2941,7 +2941,6 @@
 .zoomIn {
   -webkit-animation-name: zoomIn;
   animation-name: zoomIn;
-  
 }
 
 @-webkit-keyframes zoomInDown {
